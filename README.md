@@ -1,6 +1,6 @@
 # Hi, I'm Pascal 👋
 
-📍 **Munich** · ⚙️ **Infrastructure & backend** · 🔌 **Embedded & EV tinkerer**
+📍 **San Francisco** · ⚙️ **Infrastructure & backend** · 🔌 **Embedded & EV tinkerer**
 
 I build and run Kubernetes clusters across cloud and bare metal, write high-performance **Go** services, and design systems that stay reliable under load. Outside of work I dig into embedded systems, custom PCBs, and EV tech — including re‑implementing Tesla’s BLE command protocol for microcontrollers.
 
@@ -72,7 +72,7 @@ Secure, end‑to‑end authenticated commands to Tesla vehicles over BLE — loc
 
 ### Random facts
 
-- Based in **Munich** 🥨
+- Based in **San Francisco** 🌉
 - Day job: infrastructure & backends; nights: VMs, agents, and cars that talk Bluetooth
 - Prefer systems that fail loudly and recover cleanly
 - Building tools I actually want to use

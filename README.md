@@ -24,6 +24,7 @@ Nerd at [**@ArcadeAI**](https://github.com/ArcadeAI) · [pascal.sh](https://pasc
 | Project | What it is |
 | --- | --- |
 | 🐕 **[BarkVisor](https://github.com/pmdroid/barkvisor)** | QEMU virtualization with a modern web UI — [barkvisor.dev](https://barkvisor.dev) |
+| 📗 **[gegenlesen](https://github.com/pmdroid/gegenlesen)** | Local PR review: two models, a judge, house rules — [gegenlesen.dev](https://gegenlesen.dev) |
 | 🤖 **[acpbot](https://github.com/pmdroid/acpbot)** | Telegram control surface for ACP coding agents — [acpbot.app](https://acpbot.app) |
 | ⚡ **[tesla-vehicle-command](https://github.com/pmdroid/tesla-vehicle-command)** | C++ / Arduino library for secure Tesla vehicle commands (BLE) |
 | 📟 **[trml-go](https://github.com/pmdroid/trml-go)** | BYOS Go backend for [TRMNL](https://trmnl.com/) e‑paper displays |
@@ -34,6 +35,11 @@ Nerd at [**@ArcadeAI**](https://github.com/ArcadeAI) · [pascal.sh](https://pasc
 **[barkvisor](https://github.com/pmdroid/barkvisor)** · Swift · [barkvisor.dev](https://barkvisor.dev)
 
 Headless daemon for managing **QEMU** VMs through a web UI — create, start, stop, disks, networking, cloud‑init, serial console, and VNC in the browser. Built for macOS (Apple Silicon); Linux is experimental.
+
+### 📗 gegenlesen
+**[gegenlesen](https://github.com/pmdroid/gegenlesen)** · Swift · [gegenlesen.dev](https://gegenlesen.dev)
+
+Single-tenant PR review on your machine. Two models read the change, a conservative judge keeps only what the lines support, and nothing auto-enables. The CLI starts the job. Ledger is the admin UI.
 
 ### 🤖 acpbot
 **[acpbot](https://github.com/pmdroid/acpbot)** · TypeScript · [acpbot.app](https://acpbot.app)

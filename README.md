@@ -28,6 +28,7 @@ Nerd at [**@ArcadeAI**](https://github.com/ArcadeAI) · [pascal.sh](https://pasc
 | 🤖 **[acpbot](https://github.com/pmdroid/acpbot)** | Telegram control surface for ACP coding agents — [acpbot.app](https://acpbot.app) |
 | ⚡ **[tesla-vehicle-command](https://github.com/pmdroid/tesla-vehicle-command)** | C++ / Arduino library for secure Tesla vehicle commands (BLE) |
 | 📟 **[trml-go](https://github.com/pmdroid/trml-go)** | BYOS Go backend for [TRMNL](https://trmnl.com/) e‑paper displays |
+| 🔀 **[orouta](https://github.com/pmdroid/orouta)** | Route Ollama-compatible requests to hosts by model name — [orouta.dev](https://orouta.dev) |
 
 ## Featured projects
 

@@ -23,6 +23,8 @@ Nerd at [**@ArcadeAI**](https://github.com/ArcadeAI) · [pascal.sh](https://pasc
 
 | Project | What it is |
 | --- | --- |
+| 🐕 **[Kyoto Agent](https://github.com/pmdroid/kyotoagent)** | Coding agent you can drive from a terminal or connect to remotely, with permissions and proof of completed work |
+| ✅ **[Closeout](https://github.com/pmdroid/closeout)** | Open specification for declaring verification requirements and recording evidence before accepting agent work |
 | 🐕 **[BarkVisor](https://github.com/pmdroid/barkvisor)** | QEMU virtualization with a modern web UI — [barkvisor.dev](https://barkvisor.dev) |
 | 📗 **[gegenlesen](https://github.com/pmdroid/gegenlesen)** | Local PR review: two models, a judge, house rules — [gegenlesen.dev](https://gegenlesen.dev) |
 | 🤖 **[acpbot](https://github.com/pmdroid/acpbot)** | Telegram control surface for ACP coding agents — [acpbot.app](https://acpbot.app) |
@@ -31,6 +33,16 @@ Nerd at [**@ArcadeAI**](https://github.com/ArcadeAI) · [pascal.sh](https://pasc
 | 🔀 **[orouta](https://github.com/pmdroid/orouta)** | Route Ollama-compatible requests to hosts by model name — [orouta.dev](https://orouta.dev) |
 
 ## Featured projects
+
+### 🐕 Kyoto Agent
+**[kyotoagent](https://github.com/pmdroid/kyotoagent)** · Rust
+
+A coding agent that runs on the machine with your code. Drive it from a terminal or connect remotely, with requests, questions, permissions, results, and checks that prove the work is done.
+
+### ✅ Closeout
+**[closeout](https://github.com/pmdroid/closeout)** · Rust
+
+An open specification for declaring what must be verified before an agent's work can be accepted and recording the evidence behind that decision. Commit the policy alongside your code so runners, CI jobs, and orchestrators can evaluate the same requirements.
 
 ### 🐕 BarkVisor
 **[barkvisor](https://github.com/pmdroid/barkvisor)** · Swift · [barkvisor.dev](https://barkvisor.dev)
